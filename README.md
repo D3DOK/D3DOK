@@ -9,6 +9,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/D3DOK)](https://github.com/D3DOK)
 [![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)](https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)
+[![Github Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/D3DOK1993)](https://twitter.com/D3DOK1993)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/daniel.rodrigues.7121)](https://www.facebook.com/daniel.rodrigues.7121)
+[![Github Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://github.com/D3DOK)](https://github.com/D3DOK)
 
 
 
@@ -20,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/D3DOK">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=D3DOK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3DOK&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=D3DOK&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3DOK&layout=compact&langs_count=7&theme=omni"/>
 </div>
    
 
