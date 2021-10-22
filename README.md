@@ -11,7 +11,7 @@
 [![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)](https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)
 [![Github Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/D3DOK1993)](https://twitter.com/D3DOK1993)
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/daniel.rodrigues.7121)](https://www.facebook.com/daniel.rodrigues.7121)
-[![Github Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://github.com/D3DOK)](https://github.com/D3DOK)
+[![Github Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCrVFI_usiQXu4wfXa4ow5Lw)](https://www.youtube.com/channel/UCrVFI_usiQXu4wfXa4ow5Lw)
 
 
 
