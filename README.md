@@ -1,4 +1,4 @@
-Hello World 🌎
+## Hello World, I'm Daniel!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
    <img src=https://camo.githubusercontent.com/629b238efc96d00b4a35a0918d143867a1a84b40c43a269c34ed8ce0cbef9496/68747470733a2f2f643276347a6938706c36346e78742e636c6f756466726f6e742e6e65742f6a6176617363726970742d73656f2f35393438616266633065326466352e30323837363539312e676966 width="700" height="300">
    
@@ -23,6 +23,12 @@ Hello World 🌎
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3DOK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3DOK&layout=compact&langs_count=7&theme=dark"/>
 </div>
+   
+
+<code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
   
  
   
