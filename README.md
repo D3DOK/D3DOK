@@ -1,7 +1,19 @@
 Hello World 🌎
 
    <img src=https://camo.githubusercontent.com/629b238efc96d00b4a35a0918d143867a1a84b40c43a269c34ed8ce0cbef9496/68747470733a2f2f643276347a6938706c36346e78742e636c6f756466726f6e742e6e65742f6a6176617363726970742d73656f2f35393438616266633065326466352e30323837363539312e676966 width="700" height="300">
+   
+   ##
+   
+   ## About me
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/D3DOK)](https://github.com/D3DOK)
+[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)](https://www.linkedin.com/in/daniel-rodrigues-da-silva-53491b15a/)
+
+
+
+
+- Thanks for visiting.
 
 
 ##
